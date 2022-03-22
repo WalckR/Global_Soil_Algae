@@ -4,6 +4,6 @@ Paper reference: Jassey V., Walcker, R., Kardol, P., Geisen, S., Heger, T., Lame
 
 The dataset can be downloaded here.
 
-# Install Earth Engine API and geemap
+# Install Jupyter, Python, R, Earth Engine API and geemap
 
 Install the Earth Engine Python API and geemap. The geemap Python package is built upon the ipyleaflet and folium packages and implements several methods for interacting with Earth Engine data layers, such as Map.addLayer(), Map.setCenter(), and Map.centerObject().
