@@ -1,4 +1,4 @@
-# This folder contains all of the geospatially related scripts for the analyses conducted in the manuscript "Contribution of soil algae to the global carbon cycle"
+# This folder contains some of the geospatially related scripts for the analyses conducted in the manuscript "Contribution of soil algae to the global carbon cycle"
 
 
 Manuscript reference: Jassey V., Walcker, R., Kardol, P., Geisen, S., Heger, T., Lamentowicz, M., Hamard, S., Lara, E. (2022) Contribution of soil algae to the global carbon cycle. New Phytologist. https://doi.org/10.1111/nph.17950.
