@@ -10,7 +10,7 @@ Manuscript reference: Jassey V., Walcker, R., Kardol, P., Geisen, S., Heger, T.,
   Covariate_sampling_102pts.ipynb
   
 2- Perform variable reduction analyses to acquire potential variable lists; the associated script is:
-  XXXXXXX
+  Variable_Reduction.ipynb
   
 3- Grid search across all models of interests and variable lists of interests; the associated script is:
   XXXXXXX
